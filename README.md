@@ -1,1 +1,3 @@
-Deleted SepGPT 4.1A because I am working on 5.0 now. Beta obviously isn't fully functional, but making progress.
+SepGPT © 2025 by "Sepsis" is licensed under Creative Commons Attribution-NonCommercial 4.0 International
+
+You don't need to pay to use them; this just means you're not allowed to redistribute for commericial purposes, including "donations".
